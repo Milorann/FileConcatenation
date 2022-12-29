@@ -1,0 +1,5 @@
+file a
+require ‘F2/F4/b’
+require ‘F1/F3/c’
+require ‘F2/d’
+require ‘F2/e’
